@@ -1,0 +1,15 @@
+GIT
+
+
+1 git init
+2git add file
+3 git commit -m"file"
+4 git remote add origin,url
+5 git push
+
+
+git clone
+
+git add
+
+git commit -m"file"
