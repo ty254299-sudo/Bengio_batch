@@ -38,3 +38,8 @@
 // arr .splice(1,0,"banana");
 // arr.splice(4,0,"fruits");
 // console.log(arr);
+
+//for 
+for(let i = 0; i < 10; i++){
+    console.log(i);
+}
